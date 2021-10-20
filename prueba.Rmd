@@ -1,6 +1,6 @@
 ---
 title: "Untitled"
-author: "Matias_Frugone_Álavarez"
+author: "Matias_Frugone_Ál"
 date: "20/10/2021"
 output: html_document
 ---
